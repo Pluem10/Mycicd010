@@ -1,0 +1,23 @@
+# Build artifacts
+_site/
+dist/
+build/
+
+# Dependencies
+node_modules/
+D:\mycicd>git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Pluem10/Mycicd010.git'
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
